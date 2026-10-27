@@ -1,6 +1,7 @@
 # Hello World! 👋 Programando ando!!!
 
-<img width="842" height="280" alt="image" src="https://github.com/user-attachments/assets/0834d3fe-d784-449e-8793-35dc019c6c57" />
+<img width="1024" height="340" alt="image" src="https://github.com/user-attachments/assets/43bc54d0-45a5-4487-9da8-4831bd2bcda1" />
+
 
 ### 🚀 IA Full Stack Developer | Data & Automation Enthusiast
 
