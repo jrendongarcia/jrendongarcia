@@ -1,5 +1,14 @@
 # Hello World! 👋 Programando ando!!!
+
+<img width="842" height="280" alt="image" src="https://github.com/user-attachments/assets/0834d3fe-d784-449e-8793-35dc019c6c57" />
+
 ### 🚀 IA Full Stack Developer | Data & Automation Enthusiast
+
+Transformo ideas complejas en productos digitales funcionales, escalables y eficientes. Como desarrollador Full Stack, combino la solidez del backend con experiencias ágiles e interactivas en el frontend.
+
+Mi motor es la curiosidad técnica y la resolución de problemas mediante código limpio y mantenible. Me apasiona integrar tecnologías modernas, diseñar arquitecturas optimizadas y explorar el impacto de la IA en el desarrollo.
+
+Actualmente construyo proyectos full-stack y sigo ampliando mis capacidades en ciencia de datos y desarrollo continuo. Si buscas un perfil proactivo, versátil y enfocado en generar valor real, ¡explora mis repositorios y conectemos!
 
 📍 **Based in:** Madrid, Spain  
 💼 **Current Focus:** Full Stack Development (Python/Node.js + React/TS), AI Integration & Automation  
